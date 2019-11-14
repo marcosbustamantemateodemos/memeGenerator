@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memeGenerator/static/css/main.880c75d6.chunk.css",
+    "main.js": "/memeGenerator/static/js/main.7317dbad.chunk.js",
+    "main.js.map": "/memeGenerator/static/js/main.7317dbad.chunk.js.map",
+    "runtime-main.js": "/memeGenerator/static/js/runtime-main.b8c37c0d.js",
+    "runtime-main.js.map": "/memeGenerator/static/js/runtime-main.b8c37c0d.js.map",
+    "static/js/2.b16f4d33.chunk.js": "/memeGenerator/static/js/2.b16f4d33.chunk.js",
+    "static/js/2.b16f4d33.chunk.js.map": "/memeGenerator/static/js/2.b16f4d33.chunk.js.map",
+    "index.html": "/memeGenerator/index.html",
+    "precache-manifest.fcfb0c7916dc365e3cbe794dde4b2be2.js": "/memeGenerator/precache-manifest.fcfb0c7916dc365e3cbe794dde4b2be2.js",
+    "service-worker.js": "/memeGenerator/service-worker.js",
+    "static/css/main.880c75d6.chunk.css.map": "/memeGenerator/static/css/main.880c75d6.chunk.css.map",
+    "static/media/Trollface.png": "/memeGenerator/static/media/Trollface.be324d5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c37c0d.js",
+    "static/js/2.b16f4d33.chunk.js",
+    "static/css/main.880c75d6.chunk.css",
+    "static/js/main.7317dbad.chunk.js"
+  ]
+}
