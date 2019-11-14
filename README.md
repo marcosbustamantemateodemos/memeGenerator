@@ -1,2 +1,2 @@
-# memeGenerator
-Generator of Memes
+# Meme Generator
+Generator of Memes built in React
